@@ -130,8 +130,3 @@ Since the tool is a completely self-contained static HTML page, you can open and
 1. Double-click the [Networking_CRM.html](file:///Users/gaurav/Desktop/Networking_crm/Networking_CRM.html) file to open it directly in any modern browser.
 2. Fill out the form fields and click **Save Contact**.
 3. Verify that the contact appears in your Google Sheet immediately.
-
-### 🌐 Hosting / Publishing (Optional)
-If you want to access this CRM from your phone or outside your local machine, you can host the static HTML page for free:
-- **GitHub Pages**: Create a repository, upload `index.html` (rename `Networking_CRM.html` to `index.html`), and enable Pages.
-- **Vercel / Netlify**: Drag-and-drop the directory to publish in seconds.
